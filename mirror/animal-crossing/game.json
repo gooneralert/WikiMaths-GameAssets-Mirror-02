@@ -1,0 +1,93 @@
+{
+  "slug": "animal-crossing",
+  "title": "Animal Crossing",
+  "type": "HTML",
+  "developer": "Nintendo",
+  "description": "Move into a quiet village full of animal neighbors and live life at your own pace. Catch fish and bugs, dig up fossils, decorate your home, run errands for the locals, and celebrate seasonal events in this relaxed life-simulation classic.",
+  "tags": [
+    "Simulation",
+    "Family Friendly",
+    "Cute",
+    "Relaxing",
+    "Casual",
+    "3D"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "332a54a6-4acc-4cc7-880a-8b96690f4d99",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/332a54a6-4acc-4cc7-880a-8b96690f4d99/1/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/332a54a6-4acc-4cc7-880a-8b96690f4d99/1/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/332a54a6-4acc-4cc7-880a-8b96690f4d99/1/index.html",
+  "status": "done",
+  "sizeBytes": 37285656,
+  "assetCount": 46,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/332a54a6-4acc-4cc7-880a-8b96690f4d99/1/fonts/work-sans-500.woff2",
+    "https://playobsidian.com/cdn/assets/html/332a54a6-4acc-4cc7-880a-8b96690f4d99/1/web/index.data",
+    "https://playobsidian.com/cdn/assets/html/332a54a6-4acc-4cc7-880a-8b96690f4d99/1/%23b",
+    "https://playobsidian.com/cdn/assets/html/332a54a6-4acc-4cc7-880a-8b96690f4d99/1/.ogg",
+    "https://playobsidian.com/cdn/assets/html/332a54a6-4acc-4cc7-880a-8b96690f4d99/1/datafile_web/index.data",
+    "https://playobsidian.com/cdn/assets/html/332a54a6-4acc-4cc7-880a-8b96690f4d99/1/.wav",
+    "https://playobsidian.com/cdn/assets/html/332a54a6-4acc-4cc7-880a-8b96690f4d99/1/.mp3"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/332a54a6-4acc-4cc7-880a-8b96690f4d99/1/fonts/work-sans-500.woff2",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/332a54a6-4acc-4cc7-880a-8b96690f4d99/1/fonts/work-sans-500.woff2",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/332a54a6-4acc-4cc7-880a-8b96690f4d99/1/web/index.data",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/332a54a6-4acc-4cc7-880a-8b96690f4d99/1/web/index.data",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/332a54a6-4acc-4cc7-880a-8b96690f4d99/1/%23b",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/332a54a6-4acc-4cc7-880a-8b96690f4d99/1/%23b",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/332a54a6-4acc-4cc7-880a-8b96690f4d99/1/.ogg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/332a54a6-4acc-4cc7-880a-8b96690f4d99/1/.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/332a54a6-4acc-4cc7-880a-8b96690f4d99/1/datafile_web/index.data",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/332a54a6-4acc-4cc7-880a-8b96690f4d99/1/datafile_web/index.data",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/332a54a6-4acc-4cc7-880a-8b96690f4d99/1/.wav",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/332a54a6-4acc-4cc7-880a-8b96690f4d99/1/.wav",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/332a54a6-4acc-4cc7-880a-8b96690f4d99/1/.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/332a54a6-4acc-4cc7-880a-8b96690f4d99/1/.mp3",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T11:01:36.526Z",
+  "verifiedAt": "2026-11-16T12:55:43.477Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Slider",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.0152,
+    "rendered": true
+  }
+}

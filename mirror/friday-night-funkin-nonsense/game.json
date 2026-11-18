@@ -1,0 +1,205 @@
+{
+  "slug": "friday-night-funkin-nonsense",
+  "title": "Friday Night Funkin Nonsense",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/fnf/nonsense.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/fnf/nonsense.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/nonsense.webp",
+  "baseUrl": "https://truffled.lol/games/fnf/",
+  "entry": "/nonsense.html",
+  "entryUrl": "https://truffled.lol/games/fnf/nonsense.html",
+  "status": "done",
+  "sizeBytes": 21198207,
+  "assetCount": 76,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/.png",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/.txt",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/vcr.ttf",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/.bundle",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/.json",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/.ogg",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/.ttf",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/.webm",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/.jpg",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/.stitch.txt",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/haxe.Resource",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/.otf",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/haxe.io.Bytes",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/lime._internal.format.BMP",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/.webp",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/lime._internal.format.JPEG",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/.gif",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/lime._internal.format.PNG",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/lime.utils.AssetBundle",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/library.json",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/lime.utils.Assets",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/_polymod_pack.txt",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/openfl.utils.Assets",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/_polymod_meta.json",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/_polymod_icon.png",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/ASSET_LICENSE.txt",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/CODE_LICENSE.txt"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/library.json",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/library.json",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/vcr.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/vcr.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/.bundle",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/.bundle",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/.ogg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/.webm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/.webm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/.stitch.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/.stitch.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/haxe.Resource",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/haxe.Resource",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/.otf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/.otf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/haxe.io.Bytes",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/haxe.io.Bytes",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/lime._internal.format.BMP",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/lime._internal.format.BMP",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/.webp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/.webp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/lime._internal.format.JPEG",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/lime._internal.format.JPEG",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/.gif",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/.gif",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/lime._internal.format.PNG",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/lime._internal.format.PNG",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/lime.utils.AssetBundle",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/lime.utils.AssetBundle",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/library.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/library.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/lime.utils.Assets",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/lime.utils.Assets",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/_polymod_pack.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/_polymod_pack.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/openfl.utils.Assets",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/openfl.utils.Assets",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/_polymod_meta.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/_polymod_meta.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/_polymod_icon.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/_polymod_icon.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/ASSET_LICENSE.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/ASSET_LICENSE.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/CODE_LICENSE.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/maths@main/nonsence/CODE_LICENSE.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/fnf/nonsense.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:13:34.027Z"
+}

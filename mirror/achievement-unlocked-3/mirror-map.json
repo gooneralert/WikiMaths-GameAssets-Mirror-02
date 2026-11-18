@@ -1,0 +1,18 @@
+{
+  "/games/achivement3/a3.swf": "/a3.swf",
+  "/games/achivement3/index.html": "/index.html",
+  "https://agi.armorgames.com/assets/agi/ABS.swf": "/__external__/agi.armorgames.com/assets/agi/ABS.swf",
+  "https://agi.armorgames.com/assets/agi/AGI.swf": "/__external__/agi.armorgames.com/assets/agi/AGI.swf",
+  "https://media-mgmt.armorgames.com/broker?r=https%3A%2F%2Ftruffled%2Elol%2Fgames%2Fachivement3%2Fa3%2Eswf": "/__external__/media-mgmt.armorgames.com/broker.__q86675e88",
+  "https://media-mgmt.armorgames.com/images/dino-time-raiders-300x250.png": "/__external__/media-mgmt.armorgames.com/images/dino-time-raiders-300x250.png",
+  "https://media-mgmt.armorgames.com/images/warfare-1776-300x250.png": "/__external__/media-mgmt.armorgames.com/images/warfare-1776-300x250.png",
+  "https://truffled.lol/games/achivement3/a3.swf": "/a3.swf",
+  "https://truffled.lol/games/achivement3/index.html": "/index.html",
+  "https://unpkg.com/@ruffle-rs/ruffle": "/__external__/unpkg.com/@ruffle-rs/ruffle.js",
+  "https://unpkg.com/@ruffle-rs/ruffle.js": "/__external__/unpkg.com/@ruffle-rs/ruffle.js",
+  "https://unpkg.com/@ruffle-rs/ruffle/172de42e6619eac8f371.wasm": "/__external__/unpkg.com/@ruffle-rs/ruffle/172de42e6619eac8f371.wasm",
+  "https://unpkg.com/@ruffle-rs/ruffle/core.ruffle.16d61072ac7fdc4d5013.js": "/__external__/unpkg.com/@ruffle-rs/ruffle/core.ruffle.16d61072ac7fdc4d5013.js",
+  "https://unpkg.com/@ruffle-rs/ruffle@0.7.1/172de42e6619eac8f371.wasm": "/__external__/unpkg.com/@ruffle-rs/ruffle@0.7.1/172de42e6619eac8f371.wasm",
+  "https://unpkg.com/@ruffle-rs/ruffle@0.7.1/core.ruffle.16d61072ac7fdc4d5013.js": "/__external__/unpkg.com/@ruffle-rs/ruffle@0.7.1/core.ruffle.16d61072ac7fdc4d5013.js",
+  "https://unpkg.com/@ruffle-rs/ruffle@0.7.1/ruffle.js": "/__external__/unpkg.com/@ruffle-rs/ruffle@0.7.1/ruffle.js"
+}

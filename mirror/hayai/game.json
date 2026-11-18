@@ -1,0 +1,87 @@
+{
+  "slug": "hayai",
+  "title": "HAYAI",
+  "type": "HTML",
+  "developer": "Chaoclypse",
+  "description": "Five Ronin, destined for death. The only things they trust - their weapon and their speed. Use your mouse and draw your line of attack to kill your enemies in endless arena combat. Everything can be killed in one hit - including you. How long can you survive?",
+  "tags": [
+    "Action",
+    "Combat",
+    "Arcade",
+    "Difficult",
+    "Indie",
+    "Singleplayer"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "6acc0ee9-8736-4485-baf4-bab120e70b57",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/6acc0ee9-8736-4485-baf4-bab120e70b57/1/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/6acc0ee9-8736-4485-baf4-bab120e70b57/1/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/6acc0ee9-8736-4485-baf4-bab120e70b57/1/index.html",
+  "status": "done",
+  "sizeBytes": 30151596,
+  "assetCount": 12,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/6acc0ee9-8736-4485-baf4-bab120e70b57/1/.side.wasm",
+    "https://playobsidian.com/cdn/assets/html/6acc0ee9-8736-4485-baf4-bab120e70b57/1/.worker.js",
+    "https://playobsidian.com/cdn/assets/html/6acc0ee9-8736-4485-baf4-bab120e70b57/1/.js",
+    "https://playobsidian.com/cdn/assets/html/6acc0ee9-8736-4485-baf4-bab120e70b57/1/.audio.worklet.js",
+    "https://playobsidian.com/cdn/assets/html/6acc0ee9-8736-4485-baf4-bab120e70b57/1/godot.audio.worklet.js",
+    "https://playobsidian.com/cdn/assets/html/6acc0ee9-8736-4485-baf4-bab120e70b57/1/.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/6acc0ee9-8736-4485-baf4-bab120e70b57/1/.side.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/6acc0ee9-8736-4485-baf4-bab120e70b57/1/.side.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/6acc0ee9-8736-4485-baf4-bab120e70b57/1/.worker.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/6acc0ee9-8736-4485-baf4-bab120e70b57/1/.worker.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/6acc0ee9-8736-4485-baf4-bab120e70b57/1/.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/6acc0ee9-8736-4485-baf4-bab120e70b57/1/.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/6acc0ee9-8736-4485-baf4-bab120e70b57/1/.audio.worklet.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/6acc0ee9-8736-4485-baf4-bab120e70b57/1/.audio.worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/6acc0ee9-8736-4485-baf4-bab120e70b57/1/godot.audio.worklet.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/6acc0ee9-8736-4485-baf4-bab120e70b57/1/godot.audio.worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/6acc0ee9-8736-4485-baf4-bab120e70b57/1/.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/6acc0ee9-8736-4485-baf4-bab120e70b57/1/.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T11:33:32.922Z",
+  "verifiedAt": "2026-11-16T15:43:59.691Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "HAYAI",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.2624,
+    "rendered": true
+  }
+}

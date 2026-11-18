@@ -1,0 +1,23 @@
+{
+  "/games/mtbh/Build/TalkingHippo.data.zip": "/Build/TalkingHippo.data.zip",
+  "/games/mtbh/Build/TalkingHippo.framework.js.zip": "/Build/TalkingHippo.framework.js.zip",
+  "/games/mtbh/Build/TalkingHippo.loader.js": "/Build/TalkingHippo.loader.js",
+  "/games/mtbh/Build/TalkingHippo.wasm.zip": "/Build/TalkingHippo.wasm.zip",
+  "/games/mtbh/TemplateData/favicon.ico": "/TemplateData/favicon.ico",
+  "/games/mtbh/TemplateData/progress-bar-empty-dark.png": "/TemplateData/progress-bar-empty-dark.png",
+  "/games/mtbh/TemplateData/progress-bar-full-dark.png": "/TemplateData/progress-bar-full-dark.png",
+  "/games/mtbh/TemplateData/style.css": "/TemplateData/style.css",
+  "/games/mtbh/TemplateData/unity-logo-dark.png": "/TemplateData/unity-logo-dark.png",
+  "/games/mtbh/index.html": "/index.html",
+  "https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js": "/__external__/cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js",
+  "https://truffled.lol/games/mtbh/Build/TalkingHippo.data.zip": "/Build/TalkingHippo.data.zip",
+  "https://truffled.lol/games/mtbh/Build/TalkingHippo.framework.js.zip": "/Build/TalkingHippo.framework.js.zip",
+  "https://truffled.lol/games/mtbh/Build/TalkingHippo.loader.js": "/Build/TalkingHippo.loader.js",
+  "https://truffled.lol/games/mtbh/Build/TalkingHippo.wasm.zip": "/Build/TalkingHippo.wasm.zip",
+  "https://truffled.lol/games/mtbh/TemplateData/favicon.ico": "/TemplateData/favicon.ico",
+  "https://truffled.lol/games/mtbh/TemplateData/progress-bar-empty-dark.png": "/TemplateData/progress-bar-empty-dark.png",
+  "https://truffled.lol/games/mtbh/TemplateData/progress-bar-full-dark.png": "/TemplateData/progress-bar-full-dark.png",
+  "https://truffled.lol/games/mtbh/TemplateData/style.css": "/TemplateData/style.css",
+  "https://truffled.lol/games/mtbh/TemplateData/unity-logo-dark.png": "/TemplateData/unity-logo-dark.png",
+  "https://truffled.lol/games/mtbh/index.html": "/index.html"
+}

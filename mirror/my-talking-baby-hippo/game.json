@@ -1,0 +1,76 @@
+{
+  "slug": "my-talking-baby-hippo",
+  "title": "My Talking Baby Hippo",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/mtbh/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/mtbh/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/hippo.webp",
+  "baseUrl": "https://truffled.lol/games/mtbh/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/mtbh/index.html",
+  "status": "done",
+  "sizeBytes": 23763883,
+  "assetCount": 21,
+  "known404": [
+    "https://truffled.lol/TalkingHippo.loader.js",
+    "https://truffled.lol/TalkingHippo.data.zip",
+    "https://truffled.lol/TalkingHippo.wasm.zip",
+    "https://truffled.lol/TalkingHippo.framework.js.zip",
+    "https://truffled.lol/games/mtbh/Build/build.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/TalkingHippo.loader.js",
+      "error": "HTTP 404 for https://truffled.lol/TalkingHippo.loader.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/TalkingHippo.data.zip",
+      "error": "HTTP 404 for https://truffled.lol/TalkingHippo.data.zip",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/TalkingHippo.wasm.zip",
+      "error": "HTTP 404 for https://truffled.lol/TalkingHippo.wasm.zip",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/TalkingHippo.framework.js.zip",
+      "error": "HTTP 404 for https://truffled.lol/TalkingHippo.framework.js.zip",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/mtbh/Build/build.wasm",
+      "error": "HTTP 404 for https://truffled.lol/games/mtbh/Build/build.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T14:23:18.291Z",
+  "verifiedAt": "2026-11-17T14:23:30.656Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Unity Web Player | Talking Hippo",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 390,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9986,
+    "rendered": true
+  }
+}

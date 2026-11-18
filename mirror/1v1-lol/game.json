@@ -1,0 +1,185 @@
+{
+  "slug": "1v1-lol",
+  "title": "1v1.lol",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/1v1.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/1v1.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/1v1.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/1v1.html",
+  "entryUrl": "https://truffled.lol/gamefile/1v1.html",
+  "status": "done",
+  "sizeBytes": 29674889,
+  "assetCount": 20,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/n-101-1/1@main/progressEmpty.Light.png",
+    "https://cdn.jsdelivr.net/gh/n-101-1/1@main/progressFull.Light.png",
+    "https://cdn.jsdelivr.net/gh/n-101-1/1@main/webgl-logo.png",
+    "https://cdn.jsdelivr.net/gh/n-101-1/1@main/progressLogo.Light.png",
+    "https://cdn.jsdelivr.net/gh/n-101-1/1@main/inflate.js",
+    "https://cdn.jsdelivr.net/gh/n-101-1/1@main/fullscreen.png",
+    "https://cdn.jsdelivr.net/gh/n-101-1/1@main/utils/strings.js",
+    "https://cdn.jsdelivr.net/gh/n-101-1/1@main/zlib/inflate.js",
+    "https://cdn.jsdelivr.net/gh/n-101-1/1@main/zlib/zstream.js",
+    "https://cdn.jsdelivr.net/gh/n-101-1/1@main/zlib/constants.js",
+    "https://cdn.jsdelivr.net/gh/n-101-1/1@main/zlib/messages.js",
+    "https://cdn.jsdelivr.net/gh/n-101-1/1@main/zlib/inftrees.js",
+    "https://cdn.jsdelivr.net/gh/n-101-1/1@main/dec/decode.js",
+    "https://cdn.jsdelivr.net/gh/n-101-1/1@main/dictionary.bin.js",
+    "https://cdn.jsdelivr.net/gh/n-101-1/1@main/dec/dictionary.bin.js",
+    "https://cdn.jsdelivr.net/gh/n-101-1/1@main/dec/dictionary.js",
+    "https://cdn.jsdelivr.net/gh/n-101-1/1@main/dec/dictionary-browser.js",
+    "https://cdn.jsdelivr.net/gh/n-101-1/1@main/dec/huffman.js",
+    "https://cdn.jsdelivr.net/gh/n-101-1/1@main/dec/prefix.js",
+    "https://cdn.jsdelivr.net/gh/n-101-1/1@main/.unityweb",
+    "https://cdn.jsdelivr.net/gh/n-101-1/1@main/DocumentSnapshot.data",
+    "https://cdn.jsdelivr.net/gh/n-101-1/1@main/dec/transform.js",
+    "https://cdn.jsdelivr.net/gh/n-101-1/1@main/dec/streams.js"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/n-101-1/1@main/progressEmpty.Light.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/n-101-1/1@main/progressEmpty.Light.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/n-101-1/1@main/progressFull.Light.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/n-101-1/1@main/progressFull.Light.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/n-101-1/1@main/webgl-logo.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/n-101-1/1@main/webgl-logo.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/n-101-1/1@main/progressLogo.Light.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/n-101-1/1@main/progressLogo.Light.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/n-101-1/1@main/inflate.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/n-101-1/1@main/inflate.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/n-101-1/1@main/fullscreen.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/n-101-1/1@main/fullscreen.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/n-101-1/1@main/utils/strings.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/n-101-1/1@main/utils/strings.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/n-101-1/1@main/zlib/inflate.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/n-101-1/1@main/zlib/inflate.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/n-101-1/1@main/zlib/zstream.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/n-101-1/1@main/zlib/zstream.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/n-101-1/1@main/zlib/constants.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/n-101-1/1@main/zlib/constants.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/n-101-1/1@main/zlib/messages.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/n-101-1/1@main/zlib/messages.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/n-101-1/1@main/zlib/inftrees.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/n-101-1/1@main/zlib/inftrees.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/n-101-1/1@main/dec/decode.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/n-101-1/1@main/dec/decode.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/n-101-1/1@main/dictionary.bin.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/n-101-1/1@main/dictionary.bin.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/n-101-1/1@main/dec/dictionary.bin.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/n-101-1/1@main/dec/dictionary.bin.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/n-101-1/1@main/dec/dictionary.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/n-101-1/1@main/dec/dictionary.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/n-101-1/1@main/dec/dictionary-browser.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/n-101-1/1@main/dec/dictionary-browser.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/n-101-1/1@main/dec/huffman.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/n-101-1/1@main/dec/huffman.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/n-101-1/1@main/dec/prefix.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/n-101-1/1@main/dec/prefix.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/n-101-1/1@main/.unityweb",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/n-101-1/1@main/.unityweb",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/n-101-1/1@main/DocumentSnapshot.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/n-101-1/1@main/DocumentSnapshot.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/n-101-1/1@main/dec/transform.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/n-101-1/1@main/dec/transform.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/n-101-1/1@main/dec/streams.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/n-101-1/1@main/dec/streams.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-30T10:27:11.765Z",
+  "verifiedAt": "2026-11-18T14:18:57.501Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9929,
+    "rendered": true
+  },
+  "onlineOnly": true
+}

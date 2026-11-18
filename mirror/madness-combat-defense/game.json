@@ -1,0 +1,49 @@
+{
+  "slug": "madness-combat-defense",
+  "title": "Madness Combat Defense",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/madnesscombatdefense.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/madnesscombatdefense.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/madnesscombatdefense.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/madnesscombatdefense.html",
+  "entryUrl": "https://truffled.lol/gamefile/madnesscombatdefense.html",
+  "status": "done",
+  "sizeBytes": 24291069,
+  "assetCount": 9,
+  "known404": [
+    "https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/.wasm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T13:07:32.964Z",
+  "verifiedAt": "2026-11-18T06:56:17.237Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "really cool flash game",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 0.5243,
+    "rendered": true
+  }
+}

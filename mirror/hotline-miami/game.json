@@ -1,0 +1,99 @@
+{
+  "slug": "hotline-miami",
+  "title": "Hotline Miami",
+  "type": "HTML",
+  "developer": "Dennaton Games",
+  "description": "Hotline Miami is a high-octane action game overflowing with raw brutality, hard-boiled gunplay and skull crushing close combat. Set in an alternative 1989 Miami, you will assume the role of a mysterious antihero on a murderous rampage against the shady underworld at the behest of voices on your answering machine. Soon you'll find yourself struggling to get a grip of what is going on and why you are prone to these acts of violence. Rely on your wits to choreograph your way through seemingly impossible situations as you constantly find yourself outnumbered by vicious enemies. The action is unrelenting and every shot is deadly so each move must be quick and decisive if you hope to survive and unveil the sinister forces driving the bloodshed. Hotline Miami's unmistakable visual style, a driving soundtrack, and a surreal chain of events will have you question your own thirst for blood while pushing you to the limits with a brutally unforgiving challenge.",
+  "tags": [
+    "Top-Down",
+    "Action",
+    "Gore",
+    "Shooter",
+    "Violent",
+    "Retro"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "b98a77bf-1ea3-44d1-9514-7a293355b4f2",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/b98a77bf-1ea3-44d1-9514-7a293355b4f2/1/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/b98a77bf-1ea3-44d1-9514-7a293355b4f2/1/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/b98a77bf-1ea3-44d1-9514-7a293355b4f2/1/index.html",
+  "status": "done",
+  "sizeBytes": 22098929,
+  "assetCount": 199,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/b98a77bf-1ea3-44d1-9514-7a293355b4f2/1/html5game/.wav",
+    "https://playobsidian.com/cdn/assets/html/b98a77bf-1ea3-44d1-9514-7a293355b4f2/1/html5game/.bmp",
+    "https://playobsidian.com/cdn/assets/html/b98a77bf-1ea3-44d1-9514-7a293355b4f2/1/html5game/TurfMain.mp3",
+    "https://playobsidian.com/cdn/assets/html/b98a77bf-1ea3-44d1-9514-7a293355b4f2/1/html5game/ANewMorning.mp3",
+    "https://playobsidian.com/cdn/assets/html/b98a77bf-1ea3-44d1-9514-7a293355b4f2/1/html5game/.ttf",
+    "https://playobsidian.com/cdn/assets/html/b98a77bf-1ea3-44d1-9514-7a293355b4f2/1/html5game/ItsSafeNow.mp3",
+    "https://playobsidian.com/inlineDelivery/delivery.min.gz.js",
+    "https://playobsidian.com/cdn/assets/html/b98a77bf-1ea3-44d1-9514-7a293355b4f2/1/html5game/.png"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b98a77bf-1ea3-44d1-9514-7a293355b4f2/1/html5game/.wav",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b98a77bf-1ea3-44d1-9514-7a293355b4f2/1/html5game/.wav",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b98a77bf-1ea3-44d1-9514-7a293355b4f2/1/html5game/.bmp",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b98a77bf-1ea3-44d1-9514-7a293355b4f2/1/html5game/.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b98a77bf-1ea3-44d1-9514-7a293355b4f2/1/html5game/TurfMain.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b98a77bf-1ea3-44d1-9514-7a293355b4f2/1/html5game/TurfMain.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b98a77bf-1ea3-44d1-9514-7a293355b4f2/1/html5game/ANewMorning.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b98a77bf-1ea3-44d1-9514-7a293355b4f2/1/html5game/ANewMorning.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b98a77bf-1ea3-44d1-9514-7a293355b4f2/1/html5game/.ttf",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b98a77bf-1ea3-44d1-9514-7a293355b4f2/1/html5game/.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b98a77bf-1ea3-44d1-9514-7a293355b4f2/1/html5game/ItsSafeNow.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b98a77bf-1ea3-44d1-9514-7a293355b4f2/1/html5game/ItsSafeNow.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/inlineDelivery/delivery.min.gz.js",
+      "error": "HTTP 404 for https://playobsidian.com/inlineDelivery/delivery.min.gz.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b98a77bf-1ea3-44d1-9514-7a293355b4f2/1/html5game/.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b98a77bf-1ea3-44d1-9514-7a293355b4f2/1/html5game/.png",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T11:33:59.629Z",
+  "verifiedAt": "2026-11-16T15:45:05.174Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "HOTLINE MIAMI",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1920,
+      "height": 1080
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.4144,
+    "rendered": true
+  }
+}

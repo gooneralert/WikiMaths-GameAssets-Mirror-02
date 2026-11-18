@@ -1,0 +1,15 @@
+{
+  "/games/mkds/index.html": "/index.html",
+  "/games/mkds/mario-kart-ds.nds": "/mario-kart-ds.nds",
+  "https://cdn.emulatorjs.org/stable/data/compression/extract7z.js": "/__external__/cdn.emulatorjs.org/stable/data/compression/extract7z.js",
+  "https://cdn.emulatorjs.org/stable/data/compression/extractzip.js": "/__external__/cdn.emulatorjs.org/stable/data/compression/extractzip.js",
+  "https://cdn.emulatorjs.org/stable/data/cores/melonds-wasm.data": "/__external__/cdn.emulatorjs.org/stable/data/cores/melonds-wasm.data",
+  "https://cdn.emulatorjs.org/stable/data/cores/reports/melonds.json": "/__external__/cdn.emulatorjs.org/stable/data/cores/reports/melonds.json",
+  "https://cdn.emulatorjs.org/stable/data/emulator.css": "/__external__/cdn.emulatorjs.org/stable/data/emulator.css",
+  "https://cdn.emulatorjs.org/stable/data/emulator.min.css": "/__external__/cdn.emulatorjs.org/stable/data/emulator.min.css",
+  "https://cdn.emulatorjs.org/stable/data/emulator.min.js": "/__external__/cdn.emulatorjs.org/stable/data/emulator.min.js",
+  "https://cdn.emulatorjs.org/stable/data/loader.js": "/__external__/cdn.emulatorjs.org/stable/data/loader.js",
+  "https://cdn.emulatorjs.org/stable/data/localization/en-US.json": "/__external__/cdn.emulatorjs.org/stable/data/localization/en-US.json",
+  "https://truffled.lol/games/mkds/index.html": "/index.html",
+  "https://truffled.lol/games/mkds/mario-kart-ds.nds": "/mario-kart-ds.nds"
+}

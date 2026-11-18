@@ -1,0 +1,964 @@
+{
+  "slug": "antonblast",
+  "title": "Antonblast",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/antonblast/runner.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/antonblast/runner.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/anton.webp",
+  "baseUrl": "https://truffled.lol/games/antonblast/",
+  "entry": "/runner.html",
+  "entryUrl": "https://truffled.lol/games/antonblast/runner.html",
+  "status": "done",
+  "sizeBytes": 19766607,
+  "assetCount": 30,
+  "known404": [
+    "https://truffled.lol/games/antonblast/datafile_runner.data",
+    "https://truffled.lol/assets/sp_anton_idleglare.zip",
+    "https://truffled.lol/assets/rooms_backup.zip",
+    "https://truffled.lol/assets/backers/enemy.txt",
+    "https://truffled.lol/assets/steamworks.js",
+    "https://truffled.lol/assets/backers/graffiti.txt",
+    "https://truffled.lol/assets/backers/miniboss.txt",
+    "https://truffled.lol/assets/backers/superdes.txt",
+    "https://truffled.lol/assets/backers/normal.txt",
+    "https://truffled.lol/assets/backers/vip.txt",
+    "https://truffled.lol/assets/backers/super.txt",
+    "https://truffled.lol/assets/backers/paul.txt",
+    "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_almanac.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_angel.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_arethosereal.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_brulo.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_deepredness.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_antoine.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_crybecauseitsover.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_devildetails.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_devilhimself.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_devilhandsome.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_dice.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_devilsharvest.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_devilyouknow.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_frogs.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_helovesme.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_idlehands.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_introjewelannie_vo01.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_introjewelannie_vo02.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_introjewelannie_vo03.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_introjewelannie_vo05.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_introjewelannie_vo04.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_introjewelannie_vo06.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_introjewelannie_vo07.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_jewelghoul_01.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_knock.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_mrssatan.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_mall.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_myeyes.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_middlename.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_moonits.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_nomatter.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_quitgame.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_screenshot2.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_ringading1.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_tail.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_screenshot.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_sweat.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_tobe.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_trackrecord.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_twinsanity.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogueshop_anton_default_0.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_danton_afternina_0.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogueshop_anton_default_1.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_danton_beforenina_0.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_danton_death_factoryladderwithmecha_1.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_danton_death_factoryladder_0.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_danton_death_glasshousehammer_0.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_danton_death_jungletree_0.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_danton_death_factoryladderwithmecha_0.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_danton_death_mallride_0.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_danton_death_sewerfire_0.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_danton_death_springsgeyser_0.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_danton_death_mirepinball_0.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_danton_intro_0.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_danton_generic0_0.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_danton_intro_1.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_moonitscomplete_babbletower.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_moonitscomplete_clocktower.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_moonits_babbletower.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_moonitscomplete_peeool.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_moonits_clocktower.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_nina_angry10_0.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_moonits_runback.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_moonits_introduction.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_nina_angry10_post.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_moonits_peeool.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_nina_angry3_0.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_nina_angry4_0.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_nina_angry5_0.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_nina_angry6_0.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_nina_angry7_0.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_nina_angry9_0.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_nina_angry8_0.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_nina_dantona_1.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_nina_dantonb_0.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_nina_dantona_0.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_nina_generic0_0.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_nina_intro_0.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_nina_intro_1.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_nina_intro_2.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_shop_annie_intro_1.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_shop_annie_intro_0.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_shop_annie_intro_2.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_shop_annie_intro_3.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_shop_annie_intro_4.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_shop_annie_intro_7.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_shop_annie_intro_6.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_shop_annie_intro_9.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_shop_annie_intro_5.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_shop_annie_intro_8.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_shop_annie_intro_preentry.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_default_0.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_0.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_1.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_default_1.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_11.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_10.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_12.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_14.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_15.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_13.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_3.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_2.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_6.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_4.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_5.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_7.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_9.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_8.json",
+    "https://truffled.lol/assets/lipsync/sn_interstitial_introdragonanton_vo01.json",
+    "https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_preentry.json",
+    "https://truffled.lol/assets/lipsync/sn_gigasatanvoice_notime.json",
+    "https://truffled.lol/assets/lipsync/sn_gigasatanvoice_what.json",
+    "https://truffled.lol/assets/lipsync/sn_interstitial_introdragonanton_vo03.json",
+    "https://truffled.lol/assets/lipsync/sn_interstitial_introdragonanton_vo02.json",
+    "https://truffled.lol/assets/lipsync/sn_interstitial_introdragonanton_vo04.json",
+    "https://truffled.lol/assets/lipsync/sn_interstitial_introdragonanton_vo06.json",
+    "https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo02.json",
+    "https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo01.json",
+    "https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo03.json",
+    "https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo04.json",
+    "https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo05.json",
+    "https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo07.json",
+    "https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo06.json",
+    "https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo09.json",
+    "https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo08.json",
+    "https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo10.json",
+    "https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo11.json",
+    "https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo12.json",
+    "https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo14.json",
+    "https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo16.json",
+    "https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo15.json",
+    "https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo13.json",
+    "https://truffled.lol/assets/lipsync/sn_satan_finalintro.json",
+    "https://truffled.lol/assets/lipsync/sn_lipsynctest.json",
+    "https://truffled.lol/assets/lipsync/sn_satan_giga_mate.json",
+    "https://truffled.lol/assets/lipsync/sn_satan_mymirror.json",
+    "https://truffled.lol/assets/lipsync/sn_satan_onelastproblem.json",
+    "https://truffled.lol/assets/lipsync/sn_satan_gottagetouttahere.json",
+    "https://truffled.lol/assets/localization/credits.txt",
+    "https://truffled.lol/images/AvatarPlaceholder.png"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/antonblast/datafile_runner.data",
+      "error": "HTTP 404 for https://truffled.lol/games/antonblast/datafile_runner.data",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/sp_anton_idleglare.zip",
+      "error": "HTTP 404 for https://truffled.lol/assets/sp_anton_idleglare.zip",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/rooms_backup.zip",
+      "error": "HTTP 404 for https://truffled.lol/assets/rooms_backup.zip",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/backers/enemy.txt",
+      "error": "HTTP 404 for https://truffled.lol/assets/backers/enemy.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/steamworks.js",
+      "error": "HTTP 404 for https://truffled.lol/assets/steamworks.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/backers/graffiti.txt",
+      "error": "HTTP 404 for https://truffled.lol/assets/backers/graffiti.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/backers/miniboss.txt",
+      "error": "HTTP 404 for https://truffled.lol/assets/backers/miniboss.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/backers/superdes.txt",
+      "error": "HTTP 404 for https://truffled.lol/assets/backers/superdes.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/backers/normal.txt",
+      "error": "HTTP 404 for https://truffled.lol/assets/backers/normal.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/backers/vip.txt",
+      "error": "HTTP 404 for https://truffled.lol/assets/backers/vip.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/backers/super.txt",
+      "error": "HTTP 404 for https://truffled.lol/assets/backers/super.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/backers/paul.txt",
+      "error": "HTTP 404 for https://truffled.lol/assets/backers/paul.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_almanac.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_almanac.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_angel.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_angel.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_arethosereal.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_arethosereal.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_brulo.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_brulo.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_deepredness.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_deepredness.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_antoine.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_antoine.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_crybecauseitsover.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_crybecauseitsover.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_devildetails.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_devildetails.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_devilhimself.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_devilhimself.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_devilhandsome.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_devilhandsome.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_dice.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_dice.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_devilsharvest.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_devilsharvest.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_devilyouknow.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_devilyouknow.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_frogs.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_frogs.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_helovesme.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_helovesme.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_idlehands.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_idlehands.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_introjewelannie_vo01.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_introjewelannie_vo01.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_introjewelannie_vo02.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_introjewelannie_vo02.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_introjewelannie_vo03.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_introjewelannie_vo03.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_introjewelannie_vo05.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_introjewelannie_vo05.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_introjewelannie_vo04.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_introjewelannie_vo04.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_introjewelannie_vo06.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_introjewelannie_vo06.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_introjewelannie_vo07.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_introjewelannie_vo07.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_jewelghoul_01.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_jewelghoul_01.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_knock.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_knock.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_mrssatan.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_mrssatan.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_mall.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_mall.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_myeyes.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_myeyes.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_middlename.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_middlename.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_moonits.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_moonits.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_nomatter.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_nomatter.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_quitgame.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_quitgame.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_screenshot2.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_screenshot2.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_ringading1.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_ringading1.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_tail.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_tail.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_screenshot.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_screenshot.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_sweat.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_sweat.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_tobe.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_tobe.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_trackrecord.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_trackrecord.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_twinsanity.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogueinterstitial_twinsanity.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogueshop_anton_default_0.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogueshop_anton_default_0.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_danton_afternina_0.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_danton_afternina_0.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogueshop_anton_default_1.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogueshop_anton_default_1.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_danton_beforenina_0.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_danton_beforenina_0.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_danton_death_factoryladderwithmecha_1.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_danton_death_factoryladderwithmecha_1.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_danton_death_factoryladder_0.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_danton_death_factoryladder_0.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_danton_death_glasshousehammer_0.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_danton_death_glasshousehammer_0.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_danton_death_jungletree_0.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_danton_death_jungletree_0.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_danton_death_factoryladderwithmecha_0.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_danton_death_factoryladderwithmecha_0.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_danton_death_mallride_0.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_danton_death_mallride_0.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_danton_death_sewerfire_0.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_danton_death_sewerfire_0.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_danton_death_springsgeyser_0.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_danton_death_springsgeyser_0.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_danton_death_mirepinball_0.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_danton_death_mirepinball_0.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_danton_intro_0.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_danton_intro_0.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_danton_generic0_0.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_danton_generic0_0.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_danton_intro_1.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_danton_intro_1.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_moonitscomplete_babbletower.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_moonitscomplete_babbletower.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_moonitscomplete_clocktower.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_moonitscomplete_clocktower.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_moonits_babbletower.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_moonits_babbletower.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_moonitscomplete_peeool.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_moonitscomplete_peeool.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_moonits_clocktower.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_moonits_clocktower.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_nina_angry10_0.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_nina_angry10_0.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_moonits_runback.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_moonits_runback.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_moonits_introduction.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_moonits_introduction.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_nina_angry10_post.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_nina_angry10_post.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_moonits_peeool.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_moonits_peeool.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_nina_angry3_0.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_nina_angry3_0.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_nina_angry4_0.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_nina_angry4_0.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_nina_angry5_0.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_nina_angry5_0.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_nina_angry6_0.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_nina_angry6_0.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_nina_angry7_0.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_nina_angry7_0.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_nina_angry9_0.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_nina_angry9_0.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_nina_angry8_0.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_nina_angry8_0.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_nina_dantona_1.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_nina_dantona_1.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_nina_dantonb_0.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_nina_dantonb_0.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_nina_dantona_0.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_nina_dantona_0.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_nina_generic0_0.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_nina_generic0_0.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_nina_intro_0.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_nina_intro_0.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_nina_intro_1.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_nina_intro_1.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_nina_intro_2.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_nina_intro_2.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_shop_annie_intro_1.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_shop_annie_intro_1.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_shop_annie_intro_0.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_shop_annie_intro_0.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_shop_annie_intro_2.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_shop_annie_intro_2.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_shop_annie_intro_3.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_shop_annie_intro_3.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_shop_annie_intro_4.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_shop_annie_intro_4.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_shop_annie_intro_7.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_shop_annie_intro_7.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_shop_annie_intro_6.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_shop_annie_intro_6.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_shop_annie_intro_9.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_shop_annie_intro_9.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_shop_annie_intro_5.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_shop_annie_intro_5.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_shop_annie_intro_8.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_shop_annie_intro_8.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_shop_annie_intro_preentry.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_shop_annie_intro_preentry.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_default_0.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_default_0.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_0.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_0.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_1.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_1.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_default_1.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_default_1.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_11.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_11.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_10.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_10.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_12.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_12.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_14.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_14.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_15.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_15.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_13.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_13.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_3.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_3.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_2.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_2.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_6.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_6.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_4.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_4.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_5.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_5.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_7.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_7.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_9.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_9.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_8.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_8.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_interstitial_introdragonanton_vo01.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_interstitial_introdragonanton_vo01.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_preentry.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_dialogue_shop_anton_intro_preentry.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_gigasatanvoice_notime.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_gigasatanvoice_notime.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_gigasatanvoice_what.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_gigasatanvoice_what.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_interstitial_introdragonanton_vo03.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_interstitial_introdragonanton_vo03.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_interstitial_introdragonanton_vo02.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_interstitial_introdragonanton_vo02.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_interstitial_introdragonanton_vo04.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_interstitial_introdragonanton_vo04.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_interstitial_introdragonanton_vo06.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_interstitial_introdragonanton_vo06.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo02.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo02.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo01.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo01.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo03.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo03.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo04.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo04.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo05.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo05.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo07.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo07.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo06.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo06.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo09.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo09.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo08.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo08.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo10.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo10.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo11.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo11.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo12.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo12.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo14.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo14.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo16.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo16.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo15.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo15.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo13.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_interstitial_introjewelanton_vo13.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_satan_finalintro.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_satan_finalintro.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_lipsynctest.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_lipsynctest.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_satan_giga_mate.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_satan_giga_mate.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_satan_mymirror.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_satan_mymirror.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_satan_onelastproblem.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_satan_onelastproblem.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/lipsync/sn_satan_gottagetouttahere.json",
+      "error": "HTTP 404 for https://truffled.lol/assets/lipsync/sn_satan_gottagetouttahere.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/assets/localization/credits.txt",
+      "error": "HTTP 404 for https://truffled.lol/assets/localization/credits.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/images/AvatarPlaceholder.png",
+      "error": "HTTP 404 for https://truffled.lol/images/AvatarPlaceholder.png",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T07:53:47.046Z",
+  "verifiedAt": "2026-11-18T06:26:51.194Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "GameMaker",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 640,
+      "height": 480
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9819,
+    "rendered": true
+  }
+}

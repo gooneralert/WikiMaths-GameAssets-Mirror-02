@@ -1,0 +1,88 @@
+{
+  "slug": "machine-party",
+  "title": "Machine Party",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/mp/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/mp/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/machineparty.webp",
+  "baseUrl": "https://truffled.lol/games/mp/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/mp/index.html",
+  "status": "done",
+  "sizeBytes": 31822970,
+  "assetCount": 24,
+  "known404": [
+    "https://truffled.lol/games/mp/index.wasm",
+    "https://truffled.lol/games/mp/index.pck",
+    "https://truffled.lol/games/mp/godot.audio.position.worklet.js",
+    "https://truffled.lol/games/mp/.audio.worklet.js",
+    "https://truffled.lol/games/mp/.audio.position.worklet.js",
+    "https://truffled.lol/games/mp/.side.wasm",
+    "https://truffled.lol/games/mp/godot.audio.worklet.js"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/mp/index.wasm",
+      "error": "HTTP 404 for https://truffled.lol/games/mp/index.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/mp/index.pck",
+      "error": "HTTP 404 for https://truffled.lol/games/mp/index.pck",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/mp/godot.audio.position.worklet.js",
+      "error": "HTTP 404 for https://truffled.lol/games/mp/godot.audio.position.worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/mp/.audio.worklet.js",
+      "error": "HTTP 404 for https://truffled.lol/games/mp/.audio.worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/mp/.audio.position.worklet.js",
+      "error": "HTTP 404 for https://truffled.lol/games/mp/.audio.position.worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/mp/.side.wasm",
+      "error": "HTTP 404 for https://truffled.lol/games/mp/.side.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/mp/godot.audio.worklet.js",
+      "error": "HTTP 404 for https://truffled.lol/games/mp/godot.audio.worklet.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T13:03:01.576Z",
+  "verifiedAt": "2026-11-17T13:03:11.240Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Machine Party",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 300,
+      "height": 150
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.0512,
+    "rendered": true
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "/favicon.ico": "/__site__/favicon.ico",
+  "/fonts/sc-400.woff2": "/__site__/fonts/sc-400.woff2",
+  "/gamefile/bbe.html": "/bbe.html",
+  "http://agi.armorgames.com/assets/agi/AGI.swf": "/__external__/agi.armorgames.com/assets/agi/AGI.swf",
+  "http://agi.armorgames.com/assets/agi/AchievementsAPI.swf": "/__external__/agi.armorgames.com/assets/agi/AchievementsAPI.swf",
+  "https://agi.armorgames.com/assets/agi/AGI.swf": "/__external__/agi.armorgames.com/assets/agi/AGI.swf",
+  "https://agi.armorgames.com/assets/agi/AchievementsAPI.swf": "/__external__/agi.armorgames.com/assets/agi/AchievementsAPI.swf",
+  "https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@3ee4d4955e8833ab17148dd51d492812dd5b94f1/Burrito_Bison_Revenge_FIX.swf": "/__external__/cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@3ee4d4955e8833ab17148dd51d492812dd5b94f1/Burrito_Bison_Revenge_FIX.swf",
+  "https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/core.ruffle.ae1054522f49580946c0.js": "/__external__/cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/core.ruffle.ae1054522f49580946c0.js",
+  "https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/f7f28eb60b84863611ca.wasm": "/__external__/cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/f7f28eb60b84863611ca.wasm",
+  "https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/ruffle.js": "/__external__/cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/ruffle.js",
+  "https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/ruffle.min.js": "/__external__/cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/ruffle.min.js",
+  "https://truffled.lol/favicon.ico": "/__site__/favicon.ico",
+  "https://truffled.lol/fonts/sc-400.woff2": "/__site__/fonts/sc-400.woff2",
+  "https://truffled.lol/gamefile/bbe.html": "/bbe.html"
+}

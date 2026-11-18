@@ -1,0 +1,321 @@
+{
+  "slug": "escape-road",
+  "title": "Escape Road",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/escape.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/escape.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/road.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/escape.html",
+  "entryUrl": "https://truffled.lol/gamefile/escape.html",
+  "status": "done",
+  "sizeBytes": 32667758,
+  "assetCount": 42,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/icon.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/Chainwhacks.otf",
+    "https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/TemplateData/fullscreen-button.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/TemplateData/utils/strings.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/TemplateData/zlib/inflate.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/TemplateData/utils/common.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/TemplateData/zlib/messages.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/TemplateData/zlib/gzheader.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/TemplateData/zlib/adler32.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/TemplateData/zlib/constants.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/TemplateData/zlib/crc32.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/TemplateData/zlib/inffast.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/TemplateData/zlib/zstream.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/TemplateData/random.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/TemplateData/zlib/inftrees.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/build.wasm",
+    "https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/.ogg",
+    "https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/.mp3",
+    "https://afg.wgplayer.com/wgplayer.com/js/RkQDh8KWt62VoH09FPNYqA/2357995679/nologo.jpg",
+    "https://afg.wgplayer.com/wgplayer.com/js/RkQDh8KWt62VoH09FPNYqA/2357995679/afg_bkg.jpg",
+    "https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+    "https://imasdk.googleapis.com/js/sdkloader/.js",
+    "https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+    "https://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+    "https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+    "http://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+    "http://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+    "http://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+    "http://imasdk.googleapis.com/js/sdkloader/.js",
+    "http://imasdk.googleapis.com/js/sdkloader/outstream.min.js"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/loader.js",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/loader.js",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/icon.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/icon.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/wasm.unityweb",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/wasm.unityweb",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/framework.js.unityweb",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/framework.js.unityweb",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/Chainwhacks.otf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/Chainwhacks.otf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/data.unityweb",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/data.unityweb",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/TemplateData/fullscreen-button.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/TemplateData/fullscreen-button.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/TemplateData/utils/strings.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/TemplateData/utils/strings.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/TemplateData/zlib/inflate.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/TemplateData/zlib/inflate.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/TemplateData/utils/common.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/TemplateData/utils/common.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/TemplateData/zlib/messages.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/TemplateData/zlib/messages.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/TemplateData/zlib/gzheader.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/TemplateData/zlib/gzheader.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/TemplateData/zlib/adler32.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/TemplateData/zlib/adler32.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/TemplateData/inflate.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/TemplateData/inflate.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/TemplateData/zlib/constants.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/TemplateData/zlib/constants.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/TemplateData/zlib/crc32.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/TemplateData/zlib/crc32.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/TemplateData/zlib/inffast.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/TemplateData/zlib/inffast.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/TemplateData/zlib/zstream.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/TemplateData/zlib/zstream.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/TemplateData/random.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/TemplateData/random.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/TemplateData/zlib/inftrees.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/TemplateData/zlib/inftrees.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/build.wasm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/build.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://html5.api.gamedistribution.com/hotmail.com.br",
+      "error": "HTTP 403 for https://html5.api.gamedistribution.com/hotmail.com.br",
+      "status": 403
+    },
+    {
+      "url": "https://html5.api.gamedistribution.com/index.js",
+      "error": "HTTP 403 for https://html5.api.gamedistribution.com/index.js",
+      "status": 403
+    },
+    {
+      "url": "https://html5.api.gamedistribution.com/outlook.com.br",
+      "error": "HTTP 403 for https://html5.api.gamedistribution.com/outlook.com.br",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/.ogg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://html5.api.gamedistribution.com/soecket.io.js",
+      "error": "HTTP 403 for https://html5.api.gamedistribution.com/soecket.io.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/escape-road@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/.wav",
+      "status": 403
+    },
+    {
+      "url": "https://html5.api.gamedistribution.com/logo.svg",
+      "error": "HTTP 403 for https://html5.api.gamedistribution.com/logo.svg",
+      "status": 403
+    },
+    {
+      "url": "https://afg.wgplayer.com/wgplayer.com/js/RkQDh8KWt62VoH09FPNYqA/2357995679/nologo.jpg",
+      "error": "HTTP 404 for https://afg.wgplayer.com/wgplayer.com/js/RkQDh8KWt62VoH09FPNYqA/2357995679/nologo.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://afg.wgplayer.com/wgplayer.com/js/RkQDh8KWt62VoH09FPNYqA/2357995679/afg_bkg.jpg",
+      "error": "HTTP 404 for https://afg.wgplayer.com/wgplayer.com/js/RkQDh8KWt62VoH09FPNYqA/2357995679/afg_bkg.jpg",
+      "status": 404
+    },
+    {
+      "url": "http://hb.improvedigital.com/pbw/prebid-idhb-v11.13b.min.js",
+      "error": "HTTP 403 for http://hb.improvedigital.com/pbw/prebid-idhb-v11.13b.min.js",
+      "status": 403
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "status": 404
+    },
+    {
+      "url": "https://st.wgplayer.com/com.br",
+      "error": "HTTP 403 for https://st.wgplayer.com/com.br",
+      "status": 403
+    },
+    {
+      "url": "http://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+      "error": "HTTP 404 for http://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+      "status": 404
+    },
+    {
+      "url": "http://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "error": "HTTP 404 for http://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "status": 404
+    },
+    {
+      "url": "http://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "error": "HTTP 404 for http://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "status": 404
+    },
+    {
+      "url": "http://imasdk.googleapis.com/js/sdkloader/.js",
+      "error": "HTTP 404 for http://imasdk.googleapis.com/js/sdkloader/.js",
+      "status": 404
+    },
+    {
+      "url": "http://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "error": "HTTP 404 for http://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://dev.wgplayer.com/afg/v6/vignette.1.1.0.js?d=kiz10girls.com",
+      "error": "HTTP 401 for https://dev.wgplayer.com/afg/v6/vignette.1.1.0.js?d=kiz10girls.com",
+      "status": 401
+    },
+    {
+      "url": "https://cdn.confiant-integrations.net/w8ID02crBiXNwSQ2giWKXbYqzXE/gpt_and_prebid/Prebid.js",
+      "error": "HTTP 403 for https://cdn.confiant-integrations.net/w8ID02crBiXNwSQ2giWKXbYqzXE/gpt_and_prebid/Prebid.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.confiant-integrations.net/w8ID02crBiXNwSQ2giWKXbYqzXE/gpt_and_prebid/gecal.com.br",
+      "error": "HTTP 403 for https://cdn.confiant-integrations.net/w8ID02crBiXNwSQ2giWKXbYqzXE/gpt_and_prebid/gecal.com.br",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.confiant-integrations.net/w8ID02crBiXNwSQ2giWKXbYqzXE/gpt_and_prebid/wrap.js",
+      "error": "HTTP 403 for https://cdn.confiant-integrations.net/w8ID02crBiXNwSQ2giWKXbYqzXE/gpt_and_prebid/wrap.js",
+      "status": 403
+    },
+    {
+      "url": "https://dev.wgplayer.com/afg/v6/vignette.1.1.0.js?d=kiz10girls.com?g=true",
+      "error": "HTTP 401 for https://dev.wgplayer.com/afg/v6/vignette.1.1.0.js?d=kiz10girls.com?g=true",
+      "status": 401
+    },
+    {
+      "url": "https://cdn.confiant-integrations.net/w8ID02crBiXNwSQ2giWKXbYqzXE/gpt_and_prebid/ojogos.com.br",
+      "error": "HTTP 403 for https://cdn.confiant-integrations.net/w8ID02crBiXNwSQ2giWKXbYqzXE/gpt_and_prebid/ojogos.com.br",
+      "status": 403
+    }
+  ],
+  "mirroredAt": "2026-11-17T09:24:56.577Z",
+  "verifiedAt": "2026-11-17T09:26:04.381Z",
+  "verification": {
+    "external": 3,
+    "blocking": 0,
+    "ignoredExternal": 3,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Escape Road",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9544,
+    "rendered": true
+  }
+}

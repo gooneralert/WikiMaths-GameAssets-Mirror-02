@@ -1,0 +1,58 @@
+{
+  "slug": "animal-crossing-population-growing",
+  "title": "Animal Crossing Population: Growing!",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/slider/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/slider/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/acpg.webp",
+  "baseUrl": "https://truffled.lol/games/slider/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/slider/index.html",
+  "status": "done",
+  "sizeBytes": 37287106,
+  "assetCount": 52,
+  "known404": [
+    "https://truffled.lol/games/slider/fonts/work-sans-500.woff2",
+    "https://truffled.lol/games/slider/datafile_web/index.data"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/slider/fonts/work-sans-500.woff2",
+      "error": "HTTP 404 for https://truffled.lol/games/slider/fonts/work-sans-500.woff2",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slider/datafile_web/index.data",
+      "error": "HTTP 404 for https://truffled.lol/games/slider/datafile_web/index.data",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T07:51:19.292Z",
+  "verifiedAt": "2026-11-18T06:24:26.737Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Slider",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1280,
+      "height": 713
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 1,
+    "rendered": true
+  }
+}

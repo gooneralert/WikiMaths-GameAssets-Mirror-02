@@ -1,0 +1,46 @@
+{
+  "slug": "achievement-unlocked-2",
+  "title": "Achievement Unlocked 2",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "source": "obsidian",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/achivement2/index.html",
+  "sourceThumbnail": "",
+  "baseUrl": "https://truffled.lol/games/achivement2/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/achivement2/index.html",
+  "status": "done",
+  "sizeBytes": 33160505,
+  "assetCount": 13,
+  "known404": [],
+  "failed": [
+    {
+      "url": "http://tracker.swfstats.com/Games/q.aspx?guid=d11e873e-1813-4e12-9cd8-edde1088bd62&swfid=794&q=v/1&url=http://achievement-unlocked-2.localhost:8124/a2.swf&0.5422329972498119z",
+      "error": "fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-16T12:45:21.285Z",
+  "verifiedAt": "2026-11-17T06:20:51.128Z",
+  "verification": {
+    "external": 1,
+    "blocking": 0,
+    "ignoredExternal": 1,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 1,
+    "rendered": true
+  }
+}

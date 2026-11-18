@@ -1,0 +1,49 @@
+{
+  "slug": "burrito-bison-revenge",
+  "title": "Burrito Bison Revenge",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/bbe.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/bbe.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/bbe.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/bbe.html",
+  "entryUrl": "https://truffled.lol/gamefile/bbe.html",
+  "status": "done",
+  "sizeBytes": 22660885,
+  "assetCount": 15,
+  "known404": [
+    "https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/.wasm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-30T15:11:13.381Z",
+  "verifiedAt": "2026-11-16T14:07:07.066Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "really cool flash game",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 0.7431,
+    "rendered": true
+  }
+}

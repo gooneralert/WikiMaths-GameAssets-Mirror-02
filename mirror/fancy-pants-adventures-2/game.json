@@ -1,0 +1,49 @@
+{
+  "slug": "fancy-pants-adventures-2",
+  "title": "Fancy Pants Adventures 2",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/fancypantsadventures2/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/fancypantsadventures2/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/fancy2.webp",
+  "baseUrl": "https://truffled.lol/games/fancypantsadventures2/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/fancypantsadventures2/index.html",
+  "status": "done",
+  "sizeBytes": 26394327,
+  "assetCount": 16,
+  "known404": [
+    "https://unpkg.com/@ruffle-rs/.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://unpkg.com/@ruffle-rs/.wasm",
+      "error": "HTTP 404 for https://unpkg.com/@ruffle-rs/.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T09:48:46.709Z",
+  "verifiedAt": "2026-11-17T09:48:58.325Z",
+  "verification": {
+    "external": 1,
+    "blocking": 0,
+    "ignoredExternal": 1,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Fancy Pants Adventures 2",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 0.9644,
+    "rendered": true
+  }
+}

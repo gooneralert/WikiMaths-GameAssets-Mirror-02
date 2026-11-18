@@ -1,0 +1,22 @@
+{
+  "/favicon.ico": "/__site__/favicon.ico",
+  "/gamefile/1v1.html": "/1v1.html",
+  "https://cdn.jsdelivr.net/gh/n-101-1/1@main/1firebase-app.js": "/__external__/cdn.jsdelivr.net/gh/n-101-1/1@main/1firebase-app.js",
+  "https://cdn.jsdelivr.net/gh/n-101-1/1@main/1firebase-auth.js": "/__external__/cdn.jsdelivr.net/gh/n-101-1/1@main/1firebase-auth.js",
+  "https://cdn.jsdelivr.net/gh/n-101-1/1@main/1firebase-firestore.js": "/__external__/cdn.jsdelivr.net/gh/n-101-1/1@main/1firebase-firestore.js",
+  "https://cdn.jsdelivr.net/gh/n-101-1/1@main/1firebase.js": "/__external__/cdn.jsdelivr.net/gh/n-101-1/1@main/1firebase.js",
+  "https://cdn.jsdelivr.net/gh/n-101-1/1@main/1firestore.js": "/__external__/cdn.jsdelivr.net/gh/n-101-1/1@main/1firestore.js",
+  "https://cdn.jsdelivr.net/gh/n-101-1/1@main/1login.js": "/__external__/cdn.jsdelivr.net/gh/n-101-1/1@main/1login.js",
+  "https://cdn.jsdelivr.net/gh/n-101-1/1@main/2.7.data.unityweb": "/__external__/cdn.jsdelivr.net/gh/n-101-1/1@main/2.7.data.unityweb",
+  "https://cdn.jsdelivr.net/gh/n-101-1/1@main/2.7.js": "/__external__/cdn.jsdelivr.net/gh/n-101-1/1@main/2.7.js",
+  "https://cdn.jsdelivr.net/gh/n-101-1/1@main/2.7.json": "/__external__/cdn.jsdelivr.net/gh/n-101-1/1@main/2.7.json",
+  "https://cdn.jsdelivr.net/gh/n-101-1/1@main/2.7.wasm.code.unityweb": "/__external__/cdn.jsdelivr.net/gh/n-101-1/1@main/2.7.wasm.code.unityweb",
+  "https://cdn.jsdelivr.net/gh/n-101-1/1@main/2.7.wasm.framework.unityweb": "/__external__/cdn.jsdelivr.net/gh/n-101-1/1@main/2.7.wasm.framework.unityweb",
+  "https://cdn.jsdelivr.net/gh/n-101-1/1@main/UnityProgress.js": "/__external__/cdn.jsdelivr.net/gh/n-101-1/1@main/UnityProgress.js",
+  "https://cdn.jsdelivr.net/gh/n-101-1/1@main/progressEmpty.Dark.png": "/__external__/cdn.jsdelivr.net/gh/n-101-1/1@main/progressEmpty.Dark.png",
+  "https://cdn.jsdelivr.net/gh/n-101-1/1@main/progressFull.Dark.png": "/__external__/cdn.jsdelivr.net/gh/n-101-1/1@main/progressFull.Dark.png",
+  "https://cdn.jsdelivr.net/gh/n-101-1/1@main/progressLogo.Dark.png": "/__external__/cdn.jsdelivr.net/gh/n-101-1/1@main/progressLogo.Dark.png",
+  "https://cdn.jsdelivr.net/gh/n-101-1/1@main/style.css": "/__external__/cdn.jsdelivr.net/gh/n-101-1/1@main/style.css",
+  "https://truffled.lol/favicon.ico": "/__site__/favicon.ico",
+  "https://truffled.lol/gamefile/1v1.html": "/1v1.html"
+}

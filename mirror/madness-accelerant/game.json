@@ -1,0 +1,49 @@
+{
+  "slug": "madness-accelerant",
+  "title": "Madness Accelerant",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/madnessaccelerant.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/madnessaccelerant.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/madnessaccelerant.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/madnessaccelerant.html",
+  "entryUrl": "https://truffled.lol/gamefile/madnessaccelerant.html",
+  "status": "done",
+  "sizeBytes": 31653232,
+  "assetCount": 7,
+  "known404": [
+    "https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/.wasm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T13:03:27.450Z",
+  "verifiedAt": "2026-11-17T13:03:37.913Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "really cool flash game",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 0.8241,
+    "rendered": true
+  }
+}

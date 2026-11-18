@@ -1,0 +1,232 @@
+{
+  "slug": "baldis-basics",
+  "title": "Baldi's Basics",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/baldis-basics/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/baldis-basics/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/baldi.webp",
+  "baseUrl": "https://truffled.lol/games/baldis-basics/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/baldis-basics/index.html",
+  "status": "done",
+  "sizeBytes": 460559,
+  "assetCount": 28,
+  "known404": [
+    "https://truffled.lol/games/baldis-basics/TemplateData/progressLogo.Light.png",
+    "https://truffled.lol/games/baldis-basics/TemplateData/progressFull.Light.png",
+    "https://truffled.lol/games/baldis-basics/TemplateData/progressEmpty.Light.png",
+    "https://truffled.lol/games/baldis-basics/TemplateData/fullscreen.png",
+    "https://truffled.lol/games/baldis-basics/TemplateData/webgl-logo.png",
+    "https://truffled.lol/games/baldis-basics/inflate.js",
+    "https://truffled.lol/games/baldis-basics/utils/common.js",
+    "https://truffled.lol/games/baldis-basics/utils/strings.js",
+    "https://truffled.lol/games/baldis-basics/zlib/inflate.js",
+    "https://truffled.lol/games/baldis-basics/zlib/zstream.js",
+    "https://truffled.lol/games/baldis-basics/zlib/constants.js",
+    "https://truffled.lol/games/baldis-basics/zlib/gzheader.js",
+    "https://truffled.lol/games/baldis-basics/zlib/messages.js",
+    "https://truffled.lol/games/baldis-basics/zlib/adler32.js",
+    "https://truffled.lol/games/baldis-basics/zlib/crc32.js",
+    "https://truffled.lol/games/baldis-basics/zlib/inffast.js",
+    "https://truffled.lol/games/baldis-basics/zlib/inftrees.js",
+    "https://truffled.lol/index.js",
+    "https://truffled.lol/games/baldis-basics/decompress.js",
+    "https://truffled.lol/games/baldis-basics/dec/bit_reader.js",
+    "https://truffled.lol/games/baldis-basics/dec/decode.js",
+    "https://truffled.lol/games/baldis-basics/dec/dictionary.js",
+    "https://truffled.lol/games/baldis-basics/dec/context.js",
+    "https://truffled.lol/games/baldis-basics/dec/dictionary.bin.js",
+    "https://truffled.lol/games/baldis-basics/dec/dictionary-browser.js",
+    "https://truffled.lol/games/baldis-basics/dictionary.bin.js",
+    "https://truffled.lol/games/baldis-basics/dec/huffman.js",
+    "https://truffled.lol/games/baldis-basics/dec/prefix.js",
+    "https://truffled.lol/games/baldis-basics/dec/transform.js",
+    "https://truffled.lol/games/baldis-basics/dec/streams.js",
+    "https://truffled.lol/games/baldis-basics/node_modules/base64-js/index.js"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/baldis-basics/TemplateData/progressLogo.Light.png",
+      "error": "HTTP 404 for https://truffled.lol/games/baldis-basics/TemplateData/progressLogo.Light.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baldis-basics/TemplateData/progressFull.Light.png",
+      "error": "HTTP 404 for https://truffled.lol/games/baldis-basics/TemplateData/progressFull.Light.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baldis-basics/TemplateData/progressEmpty.Light.png",
+      "error": "HTTP 404 for https://truffled.lol/games/baldis-basics/TemplateData/progressEmpty.Light.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baldis-basics/TemplateData/fullscreen.png",
+      "error": "HTTP 404 for https://truffled.lol/games/baldis-basics/TemplateData/fullscreen.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baldis-basics/TemplateData/webgl-logo.png",
+      "error": "HTTP 404 for https://truffled.lol/games/baldis-basics/TemplateData/webgl-logo.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baldis-basics/inflate.js",
+      "error": "HTTP 404 for https://truffled.lol/games/baldis-basics/inflate.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baldis-basics/utils/common.js",
+      "error": "HTTP 404 for https://truffled.lol/games/baldis-basics/utils/common.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baldis-basics/utils/strings.js",
+      "error": "HTTP 404 for https://truffled.lol/games/baldis-basics/utils/strings.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baldis-basics/zlib/inflate.js",
+      "error": "HTTP 404 for https://truffled.lol/games/baldis-basics/zlib/inflate.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baldis-basics/zlib/zstream.js",
+      "error": "HTTP 404 for https://truffled.lol/games/baldis-basics/zlib/zstream.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baldis-basics/zlib/constants.js",
+      "error": "HTTP 404 for https://truffled.lol/games/baldis-basics/zlib/constants.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baldis-basics/zlib/gzheader.js",
+      "error": "HTTP 404 for https://truffled.lol/games/baldis-basics/zlib/gzheader.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baldis-basics/zlib/messages.js",
+      "error": "HTTP 404 for https://truffled.lol/games/baldis-basics/zlib/messages.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baldis-basics/zlib/adler32.js",
+      "error": "HTTP 404 for https://truffled.lol/games/baldis-basics/zlib/adler32.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baldis-basics/zlib/crc32.js",
+      "error": "HTTP 404 for https://truffled.lol/games/baldis-basics/zlib/crc32.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baldis-basics/zlib/inffast.js",
+      "error": "HTTP 404 for https://truffled.lol/games/baldis-basics/zlib/inffast.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baldis-basics/zlib/inftrees.js",
+      "error": "HTTP 404 for https://truffled.lol/games/baldis-basics/zlib/inftrees.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/index.js",
+      "error": "HTTP 404 for https://truffled.lol/index.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baldis-basics/decompress.js",
+      "error": "HTTP 404 for https://truffled.lol/games/baldis-basics/decompress.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baldis-basics/dec/bit_reader.js",
+      "error": "HTTP 404 for https://truffled.lol/games/baldis-basics/dec/bit_reader.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baldis-basics/dec/decode.js",
+      "error": "HTTP 404 for https://truffled.lol/games/baldis-basics/dec/decode.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baldis-basics/dec/dictionary.js",
+      "error": "HTTP 404 for https://truffled.lol/games/baldis-basics/dec/dictionary.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baldis-basics/dec/context.js",
+      "error": "HTTP 404 for https://truffled.lol/games/baldis-basics/dec/context.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baldis-basics/dec/dictionary.bin.js",
+      "error": "HTTP 404 for https://truffled.lol/games/baldis-basics/dec/dictionary.bin.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baldis-basics/dec/dictionary-browser.js",
+      "error": "HTTP 404 for https://truffled.lol/games/baldis-basics/dec/dictionary-browser.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baldis-basics/dictionary.bin.js",
+      "error": "HTTP 404 for https://truffled.lol/games/baldis-basics/dictionary.bin.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baldis-basics/dec/huffman.js",
+      "error": "HTTP 404 for https://truffled.lol/games/baldis-basics/dec/huffman.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baldis-basics/dec/prefix.js",
+      "error": "HTTP 404 for https://truffled.lol/games/baldis-basics/dec/prefix.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baldis-basics/dec/transform.js",
+      "error": "HTTP 404 for https://truffled.lol/games/baldis-basics/dec/transform.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baldis-basics/dec/streams.js",
+      "error": "HTTP 404 for https://truffled.lol/games/baldis-basics/dec/streams.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baldis-basics/node_modules/base64-js/index.js",
+      "error": "HTTP 404 for https://truffled.lol/games/baldis-basics/node_modules/base64-js/index.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T07:24:08.404Z",
+  "verifiedAt": "2026-11-18T06:19:58.802Z",
+  "verification": {
+    "external": 2,
+    "blocking": 0,
+    "ignoredExternal": 2,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Baldi's Basics",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1280,
+      "height": 713
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9223,
+    "rendered": true
+  }
+}

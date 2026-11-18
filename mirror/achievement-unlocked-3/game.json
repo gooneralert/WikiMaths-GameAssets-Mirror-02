@@ -1,0 +1,46 @@
+{
+  "slug": "achievement-unlocked-3",
+  "title": "Achievement Unlocked 3",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "source": "obsidian",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/achivement3/index.html",
+  "sourceThumbnail": "",
+  "baseUrl": "https://truffled.lol/games/achivement3/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/achivement3/index.html",
+  "status": "done",
+  "sizeBytes": 32277380,
+  "assetCount": 16,
+  "known404": [],
+  "failed": [
+    {
+      "url": "http://g60acfd370ed1448f.api.playtomic.com/tracker/q.aspx?q=v/1&url=http://achievement-unlocked-3.localhost:8124/a3.swf&swfid=7597&0.11005301354452968Z",
+      "error": "fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-16T12:47:17.858Z",
+  "verifiedAt": "2026-11-17T06:21:02.512Z",
+  "verification": {
+    "external": 3,
+    "blocking": 0,
+    "ignoredExternal": 3,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 0.8508,
+    "rendered": true
+  }
+}

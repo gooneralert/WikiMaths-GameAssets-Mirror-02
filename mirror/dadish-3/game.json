@@ -1,0 +1,64 @@
+{
+  "slug": "dadish-3",
+  "title": "Dadish 3",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/dadish3.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/dadish3.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/dadish3.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/dadish3.html",
+  "entryUrl": "https://truffled.lol/gamefile/dadish3.html",
+  "status": "done",
+  "sizeBytes": 23080529,
+  "assetCount": 178,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-3/dadish3/.png",
+    "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-3/dadish3/.gif",
+    "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-3/dadish3/download.gif"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-3/dadish3/.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-3/dadish3/.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-3/dadish3/.gif",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-3/dadish3/.gif",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-3/dadish3/download.gif",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/dadish-3/dadish3/download.gif",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-30T16:16:50.837Z",
+  "verifiedAt": "2026-11-16T15:05:16.372Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Dadish 3",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 960,
+      "height": 540
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.7395,
+    "rendered": true
+  }
+}
