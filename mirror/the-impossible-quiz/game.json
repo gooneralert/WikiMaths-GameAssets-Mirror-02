@@ -1,0 +1,49 @@
+{
+  "slug": "the-impossible-quiz",
+  "title": "The Impossible Quiz",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/theimpossiblequiz/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/theimpossiblequiz/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/quiz.webp",
+  "baseUrl": "https://truffled.lol/games/theimpossiblequiz/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/theimpossiblequiz/index.html",
+  "status": "done",
+  "sizeBytes": 20207859,
+  "assetCount": 14,
+  "known404": [
+    "https://unpkg.com/@ruffle-rs/.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://unpkg.com/@ruffle-rs/.wasm",
+      "error": "HTTP 404 for https://unpkg.com/@ruffle-rs/.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-18T00:53:29.685Z",
+  "verifiedAt": "2026-11-18T00:54:36.225Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "The Impossible Quiz",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 0.9386,
+    "rendered": true
+  }
+}

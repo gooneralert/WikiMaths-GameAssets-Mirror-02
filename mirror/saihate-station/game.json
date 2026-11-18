@@ -1,0 +1,411 @@
+{
+  "slug": "saihate-station",
+  "title": "Saihate Station",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/saihatestation.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/saihatestation.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/saihatestation.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/saihatestation.html",
+  "entryUrl": "https://truffled.lol/gamefile/saihatestation.html",
+  "status": "done",
+  "sizeBytes": 35963927,
+  "assetCount": 171,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/js/libs/vorbisdecoder.js",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/js/libs/pako.min.js",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/js/rmmz_core.js",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/js/libs/effekseer.min.js",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/js/libs/pixi.js",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/js/rmmz_managers.js",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/js/libs/localforage.min.js",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/js/rmmz_scenes.js",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/js/rmmz_sprites.js",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/js/rmmz_windows.js",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/js/plugins.js",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/js/rmmz_objects.js",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/img/system/DirPad.png",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/img/system/ActionButton.png",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/img/system/CancelButton.png",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/Skills.json",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/Items.json",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/Weapons.json",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/Armors.json",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/Enemies.json",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/States.json",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/Troops.json",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/Tilesets.json",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/Animations.json",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/CommonEvents.json",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/Actors.json",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/MapInfos.json",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/System.json",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/Event.json",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/.ogg",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/metafile.json",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/.webm",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/.mp4",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/.png",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/assets/image.svg",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/something.png",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/assets/image.png",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/spinObj_01.png",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/image.png?user=me&password=secret",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/image.png?v=1&user=me&password=secret",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/image.png",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/iamge.png?v=1",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/data/bunny.png",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/assets/score.fnt",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/images/spritesheet.json",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/myImage.png",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/desyrel.fnt",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/BoxWithRoundedCorners.png",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/assets/spritesheet.json",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/image_sequence_02.png",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/image_sequence_01.png",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/image_sequence_03.png",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/image_sequence_04.png",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/plugins/.png",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/snake.png",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/plugins/SAN_MapGenerator.js",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/plugins/.json",
+    "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/plugins/StopSelfMovementWithPlayer.js"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/js/libs/vorbisdecoder.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/js/libs/vorbisdecoder.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/js/libs/pako.min.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/js/libs/pako.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/js/rmmz_core.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/js/rmmz_core.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/js/libs/effekseer.min.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/js/libs/effekseer.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/js/libs/pixi.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/js/libs/pixi.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/js/rmmz_managers.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/js/rmmz_managers.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/js/libs/localforage.min.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/js/libs/localforage.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/js/rmmz_scenes.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/js/rmmz_scenes.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/js/rmmz_sprites.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/js/rmmz_sprites.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/js/rmmz_windows.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/js/rmmz_windows.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/js/plugins.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/js/plugins.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/js/rmmz_objects.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/js/rmmz_objects.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/js/libs/effekseer.wasm",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/js/libs/effekseer.wasm",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/img/system/DirPad.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/img/system/DirPad.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/img/system/ActionButton.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/img/system/ActionButton.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/img/system/CancelButton.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/img/system/CancelButton.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/Skills.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/Skills.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/Items.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/Items.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/Weapons.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/Weapons.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/Armors.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/Armors.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/Classes.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/Classes.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/Enemies.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/Enemies.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/States.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/States.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/Troops.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/Troops.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/Tilesets.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/Tilesets.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/Animations.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/Animations.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/Map%1.json",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/Map%1.json",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/CommonEvents.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/CommonEvents.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/Actors.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/Actors.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/MapInfos.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/MapInfos.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/System.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/System.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/Event.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/Event.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/.ogg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/metafile.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/metafile.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/.webm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/.webm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/assets/image.svg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/assets/image.svg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/something.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/something.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/assets/image.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/assets/image.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/spinObj_01.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/spinObj_01.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/image.png?user=me&password=secret",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/image.png?user=me&password=secret",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/image.png?v=1&user=me&password=secret",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/image.png?v=1&user=me&password=secret",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/image.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/image.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/iamge.png?v=1",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/iamge.png?v=1",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/data/bunny.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/data/bunny.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/assets/score.fnt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/assets/score.fnt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/images/spritesheet.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/images/spritesheet.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/myImage.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/myImage.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/desyrel.fnt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/desyrel.fnt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/BoxWithRoundedCorners.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/BoxWithRoundedCorners.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/assets/spritesheet.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/assets/spritesheet.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/image_sequence_02.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/image_sequence_02.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/image_sequence_01.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/image_sequence_01.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/image_sequence_03.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/image_sequence_03.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/image_sequence_04.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/image_sequence_04.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/plugins/.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/plugins/.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/snake.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/libs/snake.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/plugins/SAN_MapGenerator.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/plugins/SAN_MapGenerator.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/plugins/.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/plugins/.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/plugins/StopSelfMovementWithPlayer.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/js/plugins/StopSelfMovementWithPlayer.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T20:36:33.869Z",
+  "verifiedAt": "2026-11-17T20:36:43.505Z",
+  "verification": {
+    "external": 1,
+    "blocking": 0,
+    "ignoredExternal": 1,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 0.0127,
+    "rendered": true
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "slug": "vex-7",
+  "title": "Vex 7",
+  "type": "HTML",
+  "developer": "Amazing Adam",
+  "description": "In Vex 7, youâll control your stick figure character as you jump, slide, and climb your way to victory. Each level is packed with unique challenges that test your reflexes and problem-solving skills. With smooth controls and dynamic gameplay, you'll find yourself immersed in the fast-paced action. Explore diverse environments, discover hidden secrets, and complete various missions to unlock new abilities and upgrades. The vibrant graphics and engaging sound design enhance the overall experience, making it a joy to play.",
+  "tags": [
+    "2D Platformer",
+    "Action",
+    "Arcade",
+    "Difficult",
+    "Minimalist",
+    "Singleplayer"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "c5810aab-32f3-4edc-98af-e51b5402dbcb",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/index.html",
+  "status": "done",
+  "sizeBytes": 33293096,
+  "assetCount": 270,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/js/main.js",
+    "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/assets/rotate.png",
+    "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/_small.png",
+    "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/fbrq/scripts/newgroundsio.min.js",
+    "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/file.json",
+    "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/assets/images/leaderboard.png",
+    "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/.json",
+    "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/assets/images/happy.png",
+    "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/.m4a",
+    "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/.ogg",
+    "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/.mp3",
+    "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/.png",
+    "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/.fnt",
+    "https://ext.minijuegosgratis.com/external-host/.js?",
+    "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/.atlas",
+    "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/gamedistribution/js/json/ping.json?https://msgrt.gamedistribution.com/collect",
+    "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/gamedistribution/js/json/null.json?https://pub.headerlift.com/opphb?",
+    "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/gamedistribution/js/js/gameDistributionV1.3.min.js",
+    "https://playobsidian.com/iife/index.js",
+    "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/gamedistribution/js/js/null.js",
+    "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/gamedistribution/js/json/null.json?https://tracker.gamedock.io/v1/events-tracker/track/product/",
+    "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/gamedistribution/js/json/null.json?https://ana.headerlift.com/event?",
+    "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/gamedistribution/js/json/null.json?https://tracker-v4.gamedock.io/v1/events-tracker/track/product/",
+    "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/gamedistribution/js/js/null.js?https://cdn.gamedock.io/gamedock-web-tracker/4.3.0/script/gamedock-sdk.min.js",
+    "https://ssl.minijuegosgratis.com/lechuck/js/head_96x96.jpg",
+    "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/gamedistribution/js/js/null.js?/__offline__/disabled-telemetry",
+    "https://ssl.minijuegosgratis.com/lechuck/js/head_256x256.jpg",
+    "https://ssl.minijuegosgratis.com/lechuck/js/body_160x220.png",
+    "https://ssl.minijuegosgratis.com/lechuck/js/head_32x32.jpg",
+    "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/gamedistribution/js/logo.svg",
+    "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/gamedistribution/js/json/config.json?https://game.api.gamedistribution.com/game/v4/get/",
+    "https://ssl.minijuegosgratis.com/lechuck/js/head_96x96.png",
+    "https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+    "https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+    "https://imasdk.googleapis.com/js/sdkloader/.js",
+    "https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+    "http://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+    "http://imasdk.googleapis.com/js/sdkloader/.js",
+    "http://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+    "http://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+    "http://lechuck.minijuegosgratis.com/js/head_256x256.jpg",
+    "http://lechuck.minijuegosgratis.com/js/body_160x220.png",
+    "http://lechuck.minijuegosgratis.com/js/head_96x96.jpg",
+    "http://lechuck.minijuegosgratis.com/js/head_96x96.png",
+    "http://lechuck.minijuegosgratis.com/js/head_32x32.jpg"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/js/main.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/js/main.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/assets/rotate.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/assets/rotate.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/_small.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/_small.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/fbrq/scripts/newgroundsio.min.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/fbrq/scripts/newgroundsio.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/file.json",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/file.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/assets/images/leaderboard.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/assets/images/leaderboard.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/.json",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/assets/images/happy.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/assets/images/happy.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/.m4a",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/.ogg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/.fnt",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/.fnt",
+      "status": 404
+    },
+    {
+      "url": "https://ext.minijuegosgratis.com/external-host/.js?",
+      "error": "HTTP 404 for https://ext.minijuegosgratis.com/external-host/.js?",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/.atlas",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/.atlas",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/gamedistribution/js/json/ping.json?https://msgrt.gamedistribution.com/collect",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/gamedistribution/js/json/ping.json?https://msgrt.gamedistribution.com/collect",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/gamedistribution/js/json/null.json?https://pub.headerlift.com/opphb?",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/gamedistribution/js/json/null.json?https://pub.headerlift.com/opphb?",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/gamedistribution/js/js/gameDistributionV1.3.min.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/gamedistribution/js/js/gameDistributionV1.3.min.js",
+      "status": 404
+    },
+    {
+      "url": "http://imasdk.googleapis.com/js/sdkloader/ima3_debug.js",
+      "error": "EPERM: operation not permitted, rename 'C:\\Users\\blake\\Downloads\\Obsidian\\store-offline\\games\\vex-7\\__external__\\imasdk.googleapis.com\\js\\sdkloader\\ima3_debug.js.part-2020-1793011852941' -> 'C:\\Users\\blake\\Downloads\\Obsidian\\store-offline\\games\\vex-7\\__external__\\imasdk.googleapis.com\\js\\sdkloader\\ima3_debug.js'",
+      "status": 0
+    },
+    {
+      "url": "https://playobsidian.com/iife/index.js",
+      "error": "HTTP 404 for https://playobsidian.com/iife/index.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/gamedistribution/js/js/null.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/gamedistribution/js/js/null.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/gamedistribution/js/json/null.json?https://tracker.gamedock.io/v1/events-tracker/track/product/",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/gamedistribution/js/json/null.json?https://tracker.gamedock.io/v1/events-tracker/track/product/",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/gamedistribution/js/json/null.json?https://ana.headerlift.com/event?",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/gamedistribution/js/json/null.json?https://ana.headerlift.com/event?",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/gamedistribution/js/json/null.json?https://tracker-v4.gamedock.io/v1/events-tracker/track/product/",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/gamedistribution/js/json/null.json?https://tracker-v4.gamedock.io/v1/events-tracker/track/product/",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/gamedistribution/js/js/null.js?https://cdn.gamedock.io/gamedock-web-tracker/4.3.0/script/gamedock-sdk.min.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/gamedistribution/js/js/null.js?https://cdn.gamedock.io/gamedock-web-tracker/4.3.0/script/gamedock-sdk.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://ssl.minijuegosgratis.com/lechuck/js/head_96x96.jpg",
+      "error": "HTTP 404 for https://ssl.minijuegosgratis.com/lechuck/js/head_96x96.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/gamedistribution/js/js/null.js?/__offline__/disabled-telemetry",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/gamedistribution/js/js/null.js?/__offline__/disabled-telemetry",
+      "status": 404
+    },
+    {
+      "url": "https://ssl.minijuegosgratis.com/lechuck/js/head_256x256.jpg",
+      "error": "HTTP 404 for https://ssl.minijuegosgratis.com/lechuck/js/head_256x256.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://ssl.minijuegosgratis.com/lechuck/js/body_160x220.png",
+      "error": "HTTP 404 for https://ssl.minijuegosgratis.com/lechuck/js/body_160x220.png",
+      "status": 404
+    },
+    {
+      "url": "https://ssl.minijuegosgratis.com/lechuck/js/head_32x32.jpg",
+      "error": "HTTP 404 for https://ssl.minijuegosgratis.com/lechuck/js/head_32x32.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/gamedistribution/js/logo.svg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/gamedistribution/js/logo.svg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/gamedistribution/js/json/config.json?https://game.api.gamedistribution.com/game/v4/get/",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c5810aab-32f3-4edc-98af-e51b5402dbcb/1/gamedistribution/js/json/config.json?https://game.api.gamedistribution.com/game/v4/get/",
+      "status": 404
+    },
+    {
+      "url": "https://ssl.minijuegosgratis.com/lechuck/js/head_96x96.png",
+      "error": "HTTP 404 for https://ssl.minijuegosgratis.com/lechuck/js/head_96x96.png",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "status": 404
+    },
+    {
+      "url": "http://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "error": "HTTP 404 for http://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "status": 404
+    },
+    {
+      "url": "http://imasdk.googleapis.com/js/sdkloader/.js",
+      "error": "HTTP 404 for http://imasdk.googleapis.com/js/sdkloader/.js",
+      "status": 404
+    },
+    {
+      "url": "http://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "error": "HTTP 404 for http://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "status": 404
+    },
+    {
+      "url": "http://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "error": "HTTP 404 for http://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "status": 404
+    },
+    {
+      "url": "http://lechuck.minijuegosgratis.com/js/head_256x256.jpg",
+      "error": "HTTP 404 for http://lechuck.minijuegosgratis.com/js/head_256x256.jpg",
+      "status": 404
+    },
+    {
+      "url": "http://lechuck.minijuegosgratis.com/js/body_160x220.png",
+      "error": "HTTP 404 for http://lechuck.minijuegosgratis.com/js/body_160x220.png",
+      "status": 404
+    },
+    {
+      "url": "http://lechuck.minijuegosgratis.com/js/head_96x96.jpg",
+      "error": "HTTP 404 for http://lechuck.minijuegosgratis.com/js/head_96x96.jpg",
+      "status": 404
+    },
+    {
+      "url": "http://lechuck.minijuegosgratis.com/js/head_96x96.png",
+      "error": "HTTP 404 for http://lechuck.minijuegosgratis.com/js/head_96x96.png",
+      "status": 404
+    },
+    {
+      "url": "http://lechuck.minijuegosgratis.com/js/head_32x32.jpg",
+      "error": "HTTP 404 for http://lechuck.minijuegosgratis.com/js/head_32x32.jpg",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T10:51:15.521Z",
+  "verifiedAt": "2026-11-16T16:34:09.398Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Vex 7",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 2185,
+      "height": 1080
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9993,
+    "rendered": true
+  }
+}

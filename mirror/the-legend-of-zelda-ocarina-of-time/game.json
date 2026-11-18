@@ -1,0 +1,51 @@
+{
+  "slug": "the-legend-of-zelda-ocarina-of-time",
+  "title": "The Legend of Zelda: Ocarina of Time",
+  "type": "Emulation",
+  "developer": "Nintendo",
+  "description": "Join legendary hero Link as he journeys across Hyrule, and even through time, to thwart the plans of Ganondorf. Wield incredible weapons and items, battle ferocious bosses, and solve brain-teasing puzzles in this fan-favourite chapter from the series, The Legend of Zelda.",
+  "tags": [
+    "3D",
+    "Action-Adventure",
+    "Exploration",
+    "Fantasy",
+    "Puzzle",
+    "Singleplayer"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "19a787b3-6e46-4fed-95a1-fb13e221a755",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/emulation/19a787b3-6e46-4fed-95a1-fb13e221a755/1/19a787b3-6e46-4fed-95a1-fb13e221a755.z64",
+  "entry": "/index.html",
+  "entryUrl": "/index.html",
+  "status": "done",
+  "sizeBytes": 33554432,
+  "files": [
+    "rom.z64",
+    "index.html"
+  ],
+  "notes": "Runs in the shared local EmulatorJS runtime.",
+  "mirroredAt": "2026-10-26T11:51:44.965Z",
+  "verifiedAt": "2026-11-16T16:11:56.437Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "The Legend of Zelda: Ocarina of Time",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.6334,
+    "rendered": true
+  },
+  "assetCount": 0
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "patricks-parabox",
+  "title": "Patrick's Parabox",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/bogparabox/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/bogparabox/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/parabox.webp",
+  "baseUrl": "https://truffled.lol/games/bogparabox/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/bogparabox/index.html",
+  "status": "done",
+  "sizeBytes": 37284486,
+  "assetCount": 10,
+  "known404": [
+    "https://truffled.lol/games/bogparabox/Build/build.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/bogparabox/Build/build.wasm",
+      "error": "HTTP 404 for https://truffled.lol/games/bogparabox/Build/build.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T16:18:24.350Z",
+  "verifiedAt": "2026-11-17T16:18:34.079Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Patrick's Parabox",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.0435,
+    "rendered": true
+  }
+}

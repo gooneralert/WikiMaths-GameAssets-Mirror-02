@@ -1,0 +1,49 @@
+{
+  "slug": "the-impossible-quiz-2",
+  "title": "The Impossible Quiz 2",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/iq2/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/iq2/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/impos2.webp",
+  "baseUrl": "https://truffled.lol/games/iq2/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/iq2/index.html",
+  "status": "done",
+  "sizeBytes": 25214782,
+  "assetCount": 14,
+  "known404": [
+    "https://unpkg.com/@ruffle-rs/.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://unpkg.com/@ruffle-rs/.wasm",
+      "error": "HTTP 404 for https://unpkg.com/@ruffle-rs/.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-18T00:55:44.247Z",
+  "verifiedAt": "2026-11-18T00:55:56.240Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 0.6932,
+    "rendered": true
+  }
+}

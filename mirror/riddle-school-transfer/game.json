@@ -1,0 +1,49 @@
+{
+  "slug": "riddle-school-transfer",
+  "title": "Riddle School Transfer",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/riddleschooltransfer/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/riddleschooltransfer/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/riddletr.webp",
+  "baseUrl": "https://truffled.lol/games/riddleschooltransfer/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/riddleschooltransfer/index.html",
+  "status": "done",
+  "sizeBytes": 30991648,
+  "assetCount": 14,
+  "known404": [
+    "https://unpkg.com/@ruffle-rs/.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://unpkg.com/@ruffle-rs/.wasm",
+      "error": "HTTP 404 for https://unpkg.com/@ruffle-rs/.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T20:01:13.803Z",
+  "verifiedAt": "2026-11-17T20:02:20.616Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Riddle Transfer",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 0.9605,
+    "rendered": true
+  }
+}

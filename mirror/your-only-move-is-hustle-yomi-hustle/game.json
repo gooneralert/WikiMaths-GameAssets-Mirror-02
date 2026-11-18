@@ -1,0 +1,70 @@
+{
+  "slug": "your-only-move-is-hustle-yomi-hustle",
+  "title": "Your Only Move Is HUSTLE, YOMI Hustle",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/YOMIHustle/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/YOMIHustle/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/YOMI.webp",
+  "baseUrl": "https://truffled.lol/games/YOMIHustle/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/YOMIHustle/index.html",
+  "status": "done",
+  "sizeBytes": 32969904,
+  "assetCount": 24,
+  "known404": [
+    "https://truffled.lol/games/YOMIHustle/.audio.worklet.js",
+    "https://truffled.lol/games/YOMIHustle/.worker.js",
+    "https://truffled.lol/games/YOMIHustle/godot.audio.worklet.js",
+    "https://truffled.lol/games/YOMIHustle/.side.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/YOMIHustle/.audio.worklet.js",
+      "error": "HTTP 404 for https://truffled.lol/games/YOMIHustle/.audio.worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/YOMIHustle/.worker.js",
+      "error": "HTTP 404 for https://truffled.lol/games/YOMIHustle/.worker.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/YOMIHustle/godot.audio.worklet.js",
+      "error": "HTTP 404 for https://truffled.lol/games/YOMIHustle/godot.audio.worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/YOMIHustle/.side.wasm",
+      "error": "HTTP 404 for https://truffled.lol/games/YOMIHustle/.side.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-18T05:43:11.473Z",
+  "verifiedAt": "2026-11-18T05:43:21.430Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Your Only Move Is HUSTLE",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.8662,
+    "rendered": true
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "worlds-hardest-game-4",
+  "title": "Worlds Hardest Game 4",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/worlds-hardest-game-4/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/worlds-hardest-game-4/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/whg4.webp",
+  "baseUrl": "https://truffled.lol/games/worlds-hardest-game-4/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/worlds-hardest-game-4/index.html",
+  "status": "done",
+  "sizeBytes": 20789814,
+  "assetCount": 12,
+  "known404": [
+    "https://unpkg.com/@ruffle-rs/.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://unpkg.com/@ruffle-rs/.wasm",
+      "error": "HTTP 404 for https://unpkg.com/@ruffle-rs/.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-18T05:36:17.740Z",
+  "verifiedAt": "2026-11-18T05:37:24.159Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 0.6419,
+    "rendered": true
+  }
+}

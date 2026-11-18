@@ -1,0 +1,12 @@
+{
+  "/games/bogparabox/Build/bogparabox.data": "/Build/bogparabox.data",
+  "/games/bogparabox/Build/bogparabox.framework.js": "/Build/bogparabox.framework.js",
+  "/games/bogparabox/Build/bogparabox.loader.js": "/Build/bogparabox.loader.js",
+  "/games/bogparabox/Build/bogparabox.wasm": "/Build/bogparabox.wasm",
+  "/games/bogparabox/index.html": "/index.html",
+  "https://truffled.lol/games/bogparabox/Build/bogparabox.data": "/Build/bogparabox.data",
+  "https://truffled.lol/games/bogparabox/Build/bogparabox.framework.js": "/Build/bogparabox.framework.js",
+  "https://truffled.lol/games/bogparabox/Build/bogparabox.loader.js": "/Build/bogparabox.loader.js",
+  "https://truffled.lol/games/bogparabox/Build/bogparabox.wasm": "/Build/bogparabox.wasm",
+  "https://truffled.lol/games/bogparabox/index.html": "/index.html"
+}
